@@ -40,7 +40,7 @@ https://create.arduino.cc/editor/helmstk1/9e044cca-43d7-4d93-885f-e6dec5b4f769/p
 ## Finite_Led
 
 ### Description & Code
-
+```C++
 int LED1 = 9; //Labels for the leds
 int LED2 = 8;
 int counter1 = 1;
@@ -70,7 +70,7 @@ if (counter1 < 6)
   delay(500);
 }
 }
-
+```
 ### Evidence
 https://create.arduino.cc/editor/rareval48/e87eaecd-4314-4d98-b8c2-037e3244c2f8/preview
 
